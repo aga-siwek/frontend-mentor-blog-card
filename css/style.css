@@ -125,7 +125,7 @@ body {
     .card__date {font-size: calc(13rem/16)}
     .card__header {font-size: calc(22rem/16)}
     .card__header:hover {color: var(--color-yellow)}
-    .card__body {font-size: calc(16rem/16)}
+    .card__body {font-size: calc(15rem/16)}
 }
 
 
@@ -135,6 +135,6 @@ body {
     .card__date {font-size: calc(14rem/16)}
     .card__header {font-size: calc(24rem/16)}
     .card__header:hover {color: var(--color-yellow)}
-    .card__body {font-size: calc(15rem/16)}
+    .card__body {font-size: calc(16rem/16)}
 }
 
